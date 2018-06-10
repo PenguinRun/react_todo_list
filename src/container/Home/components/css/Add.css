@@ -1,0 +1,14 @@
+
+.add {
+    font-size: 24px;
+    color: #C8C8C8;
+    text-align: left;
+    background: #FFFFFF;
+    border: 2px solid #C8C8C8;
+    border-radius: 5px;
+    height:65px;
+    width: 620px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    padding-left: 33px;
+}

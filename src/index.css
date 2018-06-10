@@ -1,0 +1,10 @@
+/* 匯入Roboto字型 */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
+
+body {
+  margin: 0;
+  padding: 0;
+  /* 預設說字型為Roboto字型 */
+  font-family: 'Roboto', sans-serif;
+  background-color: #e1e1e1;
+}

@@ -1,0 +1,36 @@
+header {
+    background-color: #4A90E2;
+    height: 76px;
+    width: 100%;
+}
+
+.header-ul {
+    display: table;
+    margin:0 auto;
+    padding-top: 23px;
+    padding-bottom: 25px;
+}
+
+.header-li {
+    font-family: 'Roboto script=all rev=2';
+    font-size: 24px;
+    color: #FFFFFF;
+    text-align: center;
+    display: inline;
+    margin-right: 45px;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+}
+
+.header-my-task{
+    border-bottom: 5px solid #00408B;
+}
+
+.header-in-progress{
+    color: #00408B;
+}
+
+.header-completed{
+    color: #00408B;
+}
